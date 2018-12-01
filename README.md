@@ -1,3 +1,5 @@
+A simple React App built using OpenWeather API for finding the weather conditions at a place
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
